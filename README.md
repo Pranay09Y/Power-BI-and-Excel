@@ -1,2 +1,2 @@
 # Power-BI-and-Excel
-IN MY EXCEL AND POWER BI AM AIMED TO ANALIZE  DATA I COLLECTED FROM DIFFERENT SOURCES  BY USING PIVOT TABLES ,DATA CLEANING AND FUNCTION  I CREATED A DYNAMIC ,KEY POINT INDICATER DASHBOARD,CTRATED A INTERACTINE VISULATIONS ,WITH A DIFFERENT THEAMS
+In  EXCEL and POWER to analyse data,collected from different sources by using pivot tables,data cleaning and functions created a dynamic,key point indecater dashboard,with an interactive visuals.
